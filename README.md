@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Rao Noman
 
-<!--
-**ZyntraTechX/ZyntraTechX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Django REST Framework)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a backend developer focused on building REST APIs using Django and Django REST Framework.
+
+Currently learning and building real-world projects like ecommerce backend systems.
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Django
+- Django REST Framework
+- MYSQL
+- Git & GitHub
+
+---
+
+## 📌 Current Project
+Ecommerce REST API (in progress)
+
+Features:
+- User Authentication (JWT)
+- Product Management
+- Cart System
+- Order System
+
+---
+
+## 📂 Previous Projects
+
+### ✅ Todo App (CBV based)
+A simple task management system built using Django Class-Based Views.
+
+Features:
+- Create, update, delete tasks
+- Mark tasks as completed
+- Clean CBV structure
+
+---
+
+### 📝 Blog API (DRF)
+A REST API for blogging platform built using Django REST Framework.
+
+Features:
+- CRUD for posts
+- User authentication
+- API-based architecture
+- Serializer & ViewSet usage
+
+---
+
+## 📫 Connect With Me
+GitHub: zyntraTeachX
+LinkedIn: (add later)
